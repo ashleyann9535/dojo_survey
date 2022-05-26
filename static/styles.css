@@ -1,0 +1,21 @@
+
+h1{
+    color: #9BA3EB;
+}
+
+form label{
+    display: block;
+    color: #fff;
+    margin-top: 15px;
+}
+
+p{
+    color: #fff;
+}
+
+.container{
+    margin: 50px auto;
+    width: 40%;
+    padding: 30px;
+    background-color: #3E2C41;
+}
